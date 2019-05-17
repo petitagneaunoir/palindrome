@@ -1,0 +1,19 @@
+{
+  "name": "mdang-palindrome",
+  "version": "1.0.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://petitagneaunoir.github.io/palindrome/"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Mary Dang",
+  "license": "ISC"
+}
